@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**JoseCutileiro/JoseCutileiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+José Cutileiro in the house
 
-Here are some ideas to get you started:
+Programming languages: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. C
+2. C++
+3. Python
+4. Java
+5. Assembly
+6. shell
+
+Favorite tools:
+
+1. NeoVim
+2. VsCode
+3. WSL
+4. RetroArch
+5. Visual Studio 2022 :)
+6. GameMaker Stdudio
+7. Visual Python
