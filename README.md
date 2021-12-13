@@ -9,7 +9,7 @@ Programming languages:
 3. Python
 4. Java
 5. Assembly
-6. shell
+6. Shell
 
 Favorite tools:
 
