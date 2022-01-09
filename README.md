@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCutileiro&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) ![My Stats](https://github-readme-stats.vercel.app/api?username=JoseCutileiro&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCutileiro&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Programming languages: 
 
