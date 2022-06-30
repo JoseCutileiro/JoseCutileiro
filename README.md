@@ -5,5 +5,9 @@
 
 ### More
 
-Gitlab: https://gitlab.com/JoseCutileiro
-Youtube: https://www.youtube.com/channel/UCwCC28wTH2i8Ghaz2hmfIRg
+1. Gitlab: https://gitlab.com/JoseCutileiro
+2. Youtube: https://www.youtube.com/channel/UCwCC28wTH2i8Ghaz2hmfIRg
+
+### For fun
+
+1. https://web.tecnico.ulisboa.pt/~ist199097/MultiClicker/web/app.cgi/
