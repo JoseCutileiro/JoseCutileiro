@@ -10,4 +10,4 @@
 
 ### For fun
 
-1. https://web.tecnico.ulisboa.pt/~ist199097/MultiClicker/web/app.cgi/
+1. Multiclicker: https://web.tecnico.ulisboa.pt/~ist199097/MultiClicker/web/app.cgi/
