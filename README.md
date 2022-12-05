@@ -8,7 +8,7 @@
 
 ## 🌱 Github Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pearsettings44&theme=algolia" alt="JoseCutileiro"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseCutileiro&theme=dark" alt="JoseCutileiro"/></p>
 
 ### More
 
