@@ -1,7 +1,14 @@
 ### Hi there 👋
 
+<br>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCutileiro&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+## 🌱 Github Stats
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pearsettings44&theme=algolia" alt="JoseCutileiro"  /></p>
 
 ### More
 
