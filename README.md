@@ -2,13 +2,8 @@
 <div align="center">
  
 ### Hi there 👋
-  
-<br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCutileiro&layout=compact&theme=dark&langs_count=8)
-
-<br>
-</div>
+ I am me
 
 ## 🌱 Github Stats
 
